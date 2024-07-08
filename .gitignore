@@ -1,0 +1,36 @@
+# Environment files
+.env
+
+# Bytecode
+*.pyc
+
+# Package Metadata
+*.egg-info/
+dist/
+build/
+
+# Static files
+static/
+
+# Media files (if you manage them manually)
+media/
+
+# IDE and OS specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Coverage reports
+.coverage
+coverage*
+
+# Test database
+db.sqlite3
+test.db*
+
+# Local documentation
+docs/_build/
+
+# Local requirements
+requirements.txt
